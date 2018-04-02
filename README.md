@@ -7,3 +7,8 @@ Zadanie:
 1. Zakomentowanie dodanej już funckcji;
 2. Dodanie komentarza liniowego;
 3. Dodanie komentarza blokowego.
+
+Rozwiązania, tchnologie i narzędzia:
+- HTML 5;
+- JavaScript;
+- npm (task runner).
